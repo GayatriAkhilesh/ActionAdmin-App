@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "99006813930",
+    "project_id": "actionapps-d087f",
+    "storage_bucket": "actionapps-d087f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99006813930:android:dcf4c7dda50a7dafdc6993",
+        "android_client_info": {
+          "package_name": "com.ActionAdminApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhmL7VKanYHmT1sOl8sDVq0eXJglY5bOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99006813930:android:e8ac91799e485930dc6993",
+        "android_client_info": {
+          "package_name": "com.actionadminapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhmL7VKanYHmT1sOl8sDVq0eXJglY5bOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99006813930:android:cba8f3a61ea86868dc6993",
+        "android_client_info": {
+          "package_name": "com.actionapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhmL7VKanYHmT1sOl8sDVq0eXJglY5bOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
